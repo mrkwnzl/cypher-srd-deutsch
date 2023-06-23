@@ -1,9 +1,5 @@
 # CYPHER SYSTEM REFERENCE DOCUMENT 2022-07-28
 
-
-
-## 
-
 Flavor
 
 Flavors are groups of special abilities the GM and players can use to alter a character type to make it more to their liking or more appropriate to the genre or setting. For example, if a player wants to create a magic-using thief character, she could play an Adept with stealth flavoring. In a science fiction setting, a Warrior might also have knowledge of machinery, so the character could be flavored with technology.
