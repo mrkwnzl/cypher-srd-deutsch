@@ -4,7 +4,7 @@
 
 | Task Difficulty | Description  | Target No. | Guidance                                                                                      |
 | --------------- | ------------ | ---------- | --------------------------------------------------------------------------------------------- |
-| 0               | Routine      | 0          | Anyone can do this basically every time.                                                      |
+| 0               | Routine      | 0          | Jeder kann das jederzeit machen.                                                      |
 | 1               | Simple       | 3          | Most people can do this most of the time.                                                     |
 | 2               | Standard     | 6          | Typical task requiring focus, but most people can usually do this.                            |
 | 3               | Demanding    | 9          | Requires full attention; most people have a 50/50 chance to succeed.                          |
