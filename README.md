@@ -2,6 +2,10 @@
 
 Das Cypher System Reference Document auf Deutsch!
 
+## Markdown
+
+Anleitung zur Markdown-Syntax: https://github.github.com/gfm/
+
 ## Lizenz
 
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at http://csol.montecookgames.com.
