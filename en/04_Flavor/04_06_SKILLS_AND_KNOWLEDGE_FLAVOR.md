@@ -1,4 +1,4 @@
-### SKILLS AND KNOWLEDGE FLAVOR
+### Skills and Knowledge Flavor
 
 <!-- P, ID: 040312 -->
 
@@ -8,7 +8,7 @@ This flavor is for characters in roles that call for more knowledge and more rea
 
 A Warrior flavored with skills and knowledge might be a military engineer. An Explorer flavored with skills and knowledge could be a field scientist. A Speaker with this flavor might be a teacher.
 
-#### FIRST-TIER SKILLS AND KNOWLEDGE ABILITIES
+#### First-Tier Skills and Knowledge Abilities
 
 <!-- L, ID: 040316 -->
 
@@ -20,7 +20,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 <!-- /L -->
 
-#### SECOND-TIER SKILLS AND KNOWLEDGE ABILITIES
+#### Second-Tier Skills and Knowledge Abilities
 
 <!-- L, ID: 040329 -->
 
@@ -30,7 +30,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 <!-- /L -->
 
-#### THIRD-TIER SKILLS ANDKNOWLEDGE ABILITIES
+#### Third-Tier Skills Andknowledge Abilities
 
 <!-- L, ID: 040338 -->
 
@@ -39,7 +39,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 <!-- /L -->
 
-#### FOURTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+#### Fourth-Tier Skills and Knowledge Abilities
 
 <!-- L, ID: 040345 -->
 
@@ -49,7 +49,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 <!-- /L -->
 
-#### FIFTH-TIER SKILLS ANd KNOWLEDGE ABILITIES
+#### Fifth-Tier Skills and Knowledge Abilities
 
 <!-- L, ID: 040354 -->
 
@@ -58,7 +58,7 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 <!-- /L -->
 
-#### SIXTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+#### Sixth-Tier Skills and Knowledge Abilities
 
 <!-- L, ID: 040361 -->
 

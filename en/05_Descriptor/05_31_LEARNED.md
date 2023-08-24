@@ -1,4 +1,4 @@
-### LEARNED
+### Learned
 
 <!-- P, ID: 050657 -->
 

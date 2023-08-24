@@ -1,4 +1,4 @@
-### VIRTUOUS
+### Virtuous
 
 <!-- P, ID: 051023 -->
 

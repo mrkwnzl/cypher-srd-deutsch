@@ -1,4 +1,4 @@
-### OTHER DICE
+### Other Dice
 
 <!-- P, ID: 010093 -->
 

@@ -1,4 +1,4 @@
-### CHOOSING FOCI
+### Choosing Foci
 
 <!-- P, ID: 060007 -->
 

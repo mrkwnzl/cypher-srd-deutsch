@@ -1,4 +1,4 @@
-### TONGUE-TIED
+### Tongue-Tied
 
 <!-- P, ID: 050968 -->
 

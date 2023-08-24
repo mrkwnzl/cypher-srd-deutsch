@@ -1,4 +1,4 @@
-### IMPULSIVE
+### Impulsive
 
 <!-- P, ID: 050546 -->
 

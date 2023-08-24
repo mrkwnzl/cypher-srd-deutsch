@@ -1,4 +1,4 @@
-### STEALTHY
+### Stealthy
 
 <!-- P, ID: 050895 -->
 

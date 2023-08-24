@@ -1,4 +1,4 @@
-### HIDEOUS
+### Hideous
 
 <!-- P, ID: 050509 -->
 

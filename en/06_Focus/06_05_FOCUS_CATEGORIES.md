@@ -1,6 +1,6 @@
-### FOCUS CATEGORIES
+### Focus Categories
 
-#### ALLY USE
+#### Ally Use
 
 <!-- P, ID: 062323 -->
 
@@ -108,7 +108,7 @@ Another high-tier option could provide a handful of level 3 followers to the cha
 
 The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
 
-#### BASIC
+#### Basic
 
 <!-- P, ID: 062365 -->
 
@@ -206,7 +206,7 @@ One option should be an ability that provides another 5 or 6 points to a particu
 
 The other tier 6 option should give the character a brand-new ability within their theme, but not one that strays into the realm of the fantastic. For instance, an ability that allows a character to take two actions instead of one would be reasonable. Granting additional training, assets, or Edge would also be fine.
 
-#### ENERGY MANIPULATION
+#### Energy Manipulation
 
 <!-- P, ID: 062401 -->
 
@@ -293,7 +293,7 @@ One of the high-tier abilities should use the preferred energy to inflict a lot 
 
 The other option should use the appropriate energy type to accomplish a task not previously provided by lower-tier abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
 
-#### ENVIRONMENT MANIPULATION
+#### Environment Manipulation
 
 <!-- P, ID: 062436 -->
 
@@ -390,7 +390,7 @@ One of the abilities should provide either an offensive or a defensive ability, 
 
 The other option should be something that further explores the use of the basic environment manipulation capability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of manipulation offered, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
-#### EXPLORATION
+#### Exploration
 
 <!-- P, ID: 062477 -->
 
@@ -481,7 +481,7 @@ One option should further improve the basic exploration-themed ability previousl
 
 The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm.
 
-#### INFLUENCE
+#### Influence
 
 <!-- P, ID: 062513 -->
 
@@ -577,7 +577,7 @@ One of the options should provide either an offensive or a defensive ability, op
 
 The other option should be something that further explores the use of the basic influence ability provided by the focus. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of influence used, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
-#### IRREGULAR
+#### Irregular
 
 <!-- P, ID: 062552 -->
 
@@ -664,7 +664,7 @@ One option should grant one of the benefits the focus theme promises, one that m
 
 The other option should provide an alternate method to round out the character in a way that doesn’t replicate the first tier 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, or healing ability, depending on the focus’s overarching theme.
 
-#### MOVEMENT EXPERTISE
+#### Movement Expertise
 
 <!-- P, ID: 062587 -->
 
@@ -760,7 +760,7 @@ One of the options should provide either an offensive or a defensive ability, op
 
 The other option should be something that further explores the use of the basic movement ability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the movement.
 
-#### STRIKER COMBAT
+#### Striker Combat
 
 <!-- P, ID: 062626 -->
 
@@ -863,7 +863,7 @@ One of the options should use the focus paradigm to inflict an exceptional amoun
 
 The other option could be a different way of inflicting damage, either using the focus paradigm or just dealing lots of damage in general (and relying on previous focus tier abilities to improve targeting). This could be against multiple targets if the first option was for a single target, to outright kill or neutralize a target (starting with level 4, but with guidance for using Effort to increase the level of the target), or to select yet another foe, make another attack, or get away in order to fight another day.
 
-#### SUPPORT
+#### Support
 
 <!-- P, ID: 062679 -->
 
@@ -951,7 +951,7 @@ One of the options should provide an ultimate method of helping another in the t
 
 The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-tier offense or defense is also completely reasonable.
 
-#### TANK COMBAT
+#### Tank Combat
 
 <!-- P, ID: 062716 -->
 

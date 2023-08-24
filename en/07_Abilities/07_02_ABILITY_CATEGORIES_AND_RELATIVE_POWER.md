@@ -1,4 +1,4 @@
-### ABILITY CATEGORIES AND RELATIVE POWER
+### Ability Categories and Relative Power
 
 <!-- P, ID: 070010 -->
 
@@ -20,7 +20,7 @@ These categories have some overlap with the categories in the Focus chapter. For
 
 <!-- /B -->
 
-#### ATTACK SKILL
+#### Attack Skill
 
 <!-- P, ID: 070019 -->
 
@@ -70,7 +70,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 
 <!-- /L -->
 
-#### COMPANION
+#### Companion
 
 <!-- P, ID: 070077 -->
 
@@ -153,7 +153,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 
 <!-- /L -->
 
-#### CONTROL
+#### Control
 
 <!-- P, ID: 070201 -->
 
@@ -214,7 +214,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 
 <!-- /L -->
 
-#### CRAFT
+#### Craft
 
 <!-- P, ID: 070281 -->
 
@@ -264,7 +264,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 
 <!-- /L -->
 
-#### CURE
+#### Cure
 
 <!-- P, ID: 070339 -->
 

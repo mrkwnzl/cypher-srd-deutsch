@@ -1,4 +1,4 @@
-### MECHANICAL
+### Mechanical
 
 <!-- P, ID: 050710 -->
 

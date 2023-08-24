@@ -1,4 +1,4 @@
-### MYSTERIOUS
+### Mysterious
 
 <!-- P, ID: 050728 -->
 

@@ -1,4 +1,4 @@
-### SPECIES AS DESCRIPTOR
+### Species as Descriptor
 
 <!-- P, ID: 051075 -->
 

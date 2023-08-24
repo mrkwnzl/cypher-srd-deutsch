@@ -1,4 +1,4 @@
-### MYSTICAL
+### Mystical
 
 <!-- P, ID: 050746 -->
 

@@ -1,4 +1,4 @@
-### MAGIC FLAVOR
+### Magic Flavor
 
 <!-- P, ID: 040169 -->
 
@@ -8,7 +8,7 @@ You know a little about magic. You might not be a wizard, but you know the basic
 
 An Explorer flavored with magic might be a wizard-hunter, and a Speaker with magical flavor might be a sorcerer-bard. Although an Adept flavored with magic is still an Adept, you might find that swapping some of the type’s basic abilities with those given here tailors the character in desirable ways.
 
-#### FIRST-TIER MAGIC ABILITIES
+#### First-Tier Magic Abilities
 
 <!-- L, ID: 040173 -->
 
@@ -22,7 +22,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 <!-- /L -->
 
-#### SECOND-TIER MAGIC ABILITIES
+#### Second-Tier Magic Abilities
 
 <!-- L, ID: 040190 -->
 
@@ -34,7 +34,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 <!-- /L -->
 
-#### THIRD-TIER MAGIC ABILITIES
+#### Third-Tier Magic Abilities
 
 <!-- L, ID: 040203 -->
 
@@ -46,7 +46,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 <!-- /L -->
 
-#### FOURTH-TIER MAGIC ABILITIES
+#### Fourth-Tier Magic Abilities
 
 <!-- L, ID: 040216 -->
 
@@ -56,7 +56,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 <!-- /L -->
 
-#### FIFTH-TIER MAGIC ABILITIES
+#### Fifth-Tier Magic Abilities
 
 <!-- L, ID: 040225 -->
 
@@ -68,7 +68,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 <!-- /L -->
 
-#### SIXTH-TIER MAGIC ABILITIES
+#### Sixth-Tier Magic Abilities
 
 <!-- L, ID: 040238 -->
 

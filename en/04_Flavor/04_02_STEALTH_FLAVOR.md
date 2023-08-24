@@ -1,10 +1,10 @@
-### STEALTH FLAVOR
+### Stealth Flavor
 
 <!-- P, ID: 040010 -->
 
 Characters with the stealth flavor are good at sneaking around, infiltrating places they don’t belong, and deceiving others. They use these abilities in a variety of ways, including combat. An Explorer with stealth flavor might be a thief, while a Warrior with stealth flavor might be an assassin. An Explorer with stealth flavor in a superhero setting might be a crimefighter who stalks the streets at night.
 
-#### FIRST-TIER STEALTH ABILITIES
+#### First-Tier Stealth Abilities
 
 <!-- L, ID: 040013 -->
 
@@ -16,7 +16,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 <!-- /L -->
 
-#### SECOND-TIER STEALTH ABILITIES
+#### Second-Tier Stealth Abilities
 
 <!-- L, ID: 040026 -->
 
@@ -28,7 +28,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 <!-- /L -->
 
-#### THIRD-TIER STEALTH ABILITIES
+#### Third-Tier Stealth Abilities
 
 <!-- L, ID: 040039 -->
 
@@ -42,7 +42,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 <!-- /L -->
 
-#### FOURTH-TIER STEALTH ABILITIES
+#### Fourth-Tier Stealth Abilities
 
 <!-- L, ID: 040056 -->
 
@@ -54,7 +54,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 <!-- /L -->
 
-#### FIFTH-TIER STEALTH ABILITIES
+#### Fifth-Tier Stealth Abilities
 
 <!-- L, ID: 040069 -->
 
@@ -65,7 +65,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 <!-- /L -->
 
-#### SIXTH-TIER STEALTH ABILITIES
+#### Sixth-Tier Stealth Abilities
 
 <!-- L, ID: 040080 -->
 

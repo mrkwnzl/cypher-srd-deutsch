@@ -1,4 +1,4 @@
-### GLOSSARY
+### Glossary
 
 <!-- P, ID: 010058 -->
 

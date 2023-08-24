@@ -1,4 +1,4 @@
-### ADEPT
+### Adept
 
 <!-- P, ID: 030223 -->
 
@@ -40,7 +40,7 @@ You master powers or abilities outside the experience, understanding, and someti
 
 > Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a “utility belt” full of oddments. Or a game like that might not have Adepts. That’s okay too.
 
-#### ADEPT PLAYER INTRUSIONS
+#### Adept Player Intrusions
 
 <!-- P, ID: 030236 -->
 
@@ -58,7 +58,7 @@ When playing an Adept, you can spend 1 XP to use one of the following player int
 
 **Inexplicably Unbroken:** An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.
 
-#### ADEPT STAT POOLS
+#### Adept Stat Pools
 
 <!-- T, ID: 030242 -->
 
@@ -107,7 +107,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 
 <!-- /T -->
 
-#### FIRST-TIER ADEPT
+#### First-Tier Adept
 
 <!-- P, ID: 030275 -->
 
@@ -153,7 +153,7 @@ First-tier Adepts have the following abilities:
 
 <!-- /L -->
 
-#### SECOND-TIER ADEPT
+#### Second-Tier Adept
 
 <!-- P, ID: 030307 -->
 
@@ -171,7 +171,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### THIRD-TIER ADEPT
+#### Third-Tier Adept
 
 <!-- P, ID: 030325 -->
 
@@ -189,7 +189,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### FOURTH-TIER ADEPT
+#### Fourth-Tier Adept
 
 <!-- P, ID: 030343 -->
 
@@ -210,7 +210,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### FIFTH-TIER ADEPT
+#### Fifth-Tier Adept
 
 <!-- P, ID: 030367 -->
 
@@ -230,7 +230,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### SIXTH-TIER ADEPT
+#### Sixth-Tier Adept
 
 <!-- P, ID: 030389 -->
 
@@ -246,7 +246,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### ADEPT EXAMPLE
+#### Adept Example
 
 <!-- P, ID: 030403 -->
 

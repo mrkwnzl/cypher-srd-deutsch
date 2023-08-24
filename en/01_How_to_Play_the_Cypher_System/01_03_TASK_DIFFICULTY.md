@@ -1,4 +1,4 @@
-### TASK DIFFICULTY
+### Task Difficulty
 
 <!-- T, ID: 010023 -->
 

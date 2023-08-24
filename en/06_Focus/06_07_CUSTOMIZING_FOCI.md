@@ -1,4 +1,4 @@
-### CUSTOMIZING FOCI
+### Customizing Foci
 
 <!-- P, ID: 062762 -->
 

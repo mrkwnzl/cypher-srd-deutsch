@@ -1,4 +1,4 @@
-### BENEFICENT
+### Beneficent
 
 <!-- P, ID: 050130 -->
 

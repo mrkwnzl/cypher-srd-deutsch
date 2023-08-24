@@ -1,4 +1,4 @@
-### SPEAKER
+### Speaker
 
 <!-- P, ID: 030636 -->
 
@@ -36,7 +36,7 @@ You’re good with words and good with people. You talk your way past challenges
 
 **Advanced Speakers:** Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
 
-#### SPEAKER PLAYER INTRUSIONS
+#### Speaker Player Intrusions
 
 <!-- P, ID: 030647 -->
 
@@ -105,7 +105,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 
 <!-- /T -->
 
-#### FIRST-TIER SPEAKER
+#### First-Tier Speaker
 
 <!-- P, ID: 030685 -->
 
@@ -153,7 +153,7 @@ First-tier speakers have the following abilities:
 
 <!-- /L -->
 
-#### SECOND-TIER SPEAKER
+#### Second-Tier Speaker
 
 <!-- P, ID: 030721 -->
 
@@ -175,7 +175,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### THIRD-TIER SPEAKER
+#### Third-Tier Speaker
 
 <!-- P, ID: 030747 -->
 
@@ -198,7 +198,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 <!-- /L -->
 
-#### FOURTH-TIER SPEAKER
+#### Fourth-Tier Speaker
 
 <!-- P, ID: 030775 -->
 
@@ -218,7 +218,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### FIFTH-TIER SPEAKER
+#### Fifth-Tier Speaker
 
 <!-- P, ID: 030797 -->
 
@@ -238,7 +238,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 <!-- /L -->
 
-#### SIXTH-TIER SPEAKER
+#### Sixth-Tier Speaker
 
 <!-- P, ID: 030819 -->
 
@@ -257,7 +257,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### SPEAKER EXAMPLE
+#### Speaker Example
 
 <!-- P, ID: 030839 -->
 

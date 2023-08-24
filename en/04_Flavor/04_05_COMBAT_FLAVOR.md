@@ -1,10 +1,10 @@
-### COMBAT FLAVOR
+### Combat Flavor
 
 <!-- P, ID: 040249 -->
 
 Combat flavor makes a character more martial. A Speaker with combat flavor in a fantasy setting would be a battle bard. An Explorer with combat flavor in a historical game might be a pirate. An Adept flavored with combat in a science fiction setting could be a veteran of a thousand psychic wars.
 
-#### FIRST-TIER COMBAT ABILITIES
+#### First-Tier Combat Abilities
 
 <!-- L, ID: 040252 -->
 
@@ -14,7 +14,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 <!-- /L -->
 
-#### SECOND-TIER COMBAT ABILITIES
+#### Second-Tier Combat Abilities
 
 <!-- L, ID: 040261 -->
 
@@ -24,7 +24,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 <!-- /L -->
 
-#### THIRD-TIER COMBAT ABILITIES
+#### Third-Tier Combat Abilities
 
 <!-- L, ID: 040270 -->
 
@@ -35,7 +35,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 <!-- /L -->
 
-#### FOURTH-TIER COMBAT ABILITIES
+#### Fourth-Tier Combat Abilities
 
 <!-- L, ID: 040281 -->
 
@@ -47,7 +47,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 <!-- /L -->
 
-#### FIFTH-TIER COMBAT ABILITIES
+#### Fifth-Tier Combat Abilities
 
 <!-- L, ID: 040294 -->
 
@@ -57,7 +57,7 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 <!-- /L -->
 
-#### SIXTH-TIER COMBAT ABILITIES
+#### Sixth-Tier Combat Abilities
 
 <!-- L, ID: 040303 -->
 

@@ -1,4 +1,4 @@
-### CREATING NEW FOCI
+### Creating New Foci
 
 <!-- P, ID: 062255 -->
 
@@ -16,7 +16,7 @@ Each focus category has an overarching theme, followed by selection guidelines t
 
 The newly created focus should be named in the form of a verb, like Controls Beasts or Abides in Stone. For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse or Lights Fires With a Thought.
 
-#### FOCUS CATEGORIES
+#### Focus Categories
 
 <!-- L, ID: 062261 -->
 
@@ -34,7 +34,7 @@ The newly created focus should be named in the form of a verb, like Controls Bea
 
 <!-- /L -->
 
-#### CHOOSING ABILITIES BY RELATIVE POWER
+#### Choosing Abilities by Relative Power
 
 <!-- P, ID: 062286 -->
 
@@ -48,7 +48,7 @@ Low-tier abilities are best suited for focus options at tiers 1 and 2. Mid-tier 
 
 That said, sometimes you’ll find it appropriate to assign a low-tier ability at tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but don’t rule it out. It might be the only way to get all the abilities you want for the focus you’re building. Higher-tier abilities usually cost more Pool points to use. So if a mid-tier ability is made available at tier 1 or 2, or a high-tier ability is made available at tier 3 or 4, the higher cost will be a balancing factor.
 
-#### BALANCING ABILITIES
+#### Balancing Abilities
 
 <!-- P, ID: 062291 -->
 
@@ -62,7 +62,7 @@ For instance, someone who uses cold might be able to create small snow sculpture
 
 Often, the focus guidelines note this as a possibility. However, you have great leeway in deciding if a focus needs an additional ability, even if the guidelines for that tier don’t indicate one. If you do add an ability, or there is a higher-power ability at a tier that normally shouldn’t have it, it might mean that the choice given at the next tier, or the previous tier, isn’t quite as good. Balancing a focus is a bit of an art. Resist the urge to overpower the focus, but don’t underpower it, either.
 
-#### ABILITY GUIDELINES ARE NOT PERSCRIPTIVE
+#### Ability Guidelines Are Not Perscriptive
 
 <!-- P, ID: 062296 -->
 
@@ -72,13 +72,13 @@ Each focus category provides a guideline for what kind of ability you should sel
 
 For example, if you’re building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
 
-#### ABILITY SWAP
+#### Ability Swap
 
 <!-- P, ID: 062300 -->
 
 If you’re creating a focus and you think it should provide a suite of abilities at first tier that would mechanically overload it, you have the option to add one as a “swap” ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-tier focus ability. The ability is gained instead of one of the abilities normally granted by the character’s type.
 
-#### CONCEPT AND CATEGORY
+#### Concept and Category
 
 <!-- P, ID: 062303 -->
 
@@ -106,7 +106,7 @@ If you’re looking for an ability and can’t seem to find the right one in the
 
 Some abilities in the Abilities chapter reference other abilities. If you select an ability for your focus or type that refers to or modifies a lower-tier ability, also include that lower-tier ability in your type or focus as a selection a PC can make at a lower tier.
 
-#### CREATING BRAND-NEW ABILITIES
+#### Creating Brand-New Abilities
 
 <!-- P, ID: 062313 -->
 
@@ -120,7 +120,7 @@ You may notice that higher-tier abilities are more expensive. This is partly bec
 
 As a good rule of thumb, a typical ability should cost points equal to its tier.
 
-#### CHOOSE GM INTRUSIONS
+#### Choose GM Intrusions
 
 <!-- P, ID: 062318 -->
 

@@ -1,10 +1,10 @@
-### FURTHER CUSTOMIZATION
+### Further Customization
 
 <!-- P, ID: 030937 -->
 
 The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.
 
-#### MODIFYING TYPE ASPECTS
+#### Modifying Type Aspects
 
 <!-- P, ID: 030940 -->
 
@@ -26,7 +26,7 @@ The following aspects of the four character types can be modified at character c
 
 **Weapons:** Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.
 
-#### DRAWBACKS AND PENALTIES
+#### Drawbacks and Penalties
 
 <!-- P, ID: 030947 -->
 

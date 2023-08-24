@@ -1,4 +1,4 @@
-### RISK-TAKING
+### Risk-Taking
 
 <!-- P, ID: 050824 -->
 

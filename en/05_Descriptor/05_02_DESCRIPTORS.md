@@ -1,4 +1,4 @@
-### DESCRIPTORS
+### Descriptors
 
 <!-- L, ID: 050010 -->
 

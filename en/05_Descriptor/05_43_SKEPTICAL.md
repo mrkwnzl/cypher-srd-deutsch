@@ -1,4 +1,4 @@
-### SKEPTICAL
+### Skeptical
 
 <!-- P, ID: 050878 -->
 

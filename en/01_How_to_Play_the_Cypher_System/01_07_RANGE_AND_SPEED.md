@@ -1,4 +1,4 @@
-### RANGE AND SPEED
+### Range and Speed
 
 <!-- P, ID: 010069 -->
 

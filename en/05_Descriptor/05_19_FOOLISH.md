@@ -1,4 +1,4 @@
-### FOOLISH
+### Foolish
 
 <!-- P, ID: 050429 -->
 

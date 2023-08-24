@@ -1,4 +1,4 @@
-### INTELLIGENT
+### Intelligent
 
 <!-- P, ID: 050588 -->
 

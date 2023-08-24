@@ -1,4 +1,4 @@
-### CHARACTER DESCRIPTOR, TYPE, AND FOCUS
+### Character Descriptor, Type, and Focus
 
 <!-- P, ID: 020082 -->
 

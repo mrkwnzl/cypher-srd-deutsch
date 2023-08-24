@@ -1,4 +1,4 @@
-### EMPATHIC
+### Empathic
 
 <!-- P, ID: 050372 -->
 

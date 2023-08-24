@@ -1,4 +1,4 @@
-### POOL, EDGE, AND EFFORT
+### Pool, Edge, and Effort
 
 <!-- P, ID: 020024 -->
 
@@ -8,7 +8,7 @@ Each of the three stats has two components: Pool and Edge. Your Pool represents 
 
 > Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.
 
-#### POOL
+#### Pool
 
 <!-- P, ID: 020029 -->
 
@@ -18,7 +18,7 @@ Your Pool is the most basic measurement of a stat. Comparing the Pools of two cr
 
 When your character is injured, sickened, or attacked, you temporarily lose points from one of your stat Pools. The nature of the attack determines which Pool loses points. For example, physical damage from a sword reduces your Might Pool, a poison that makes you clumsy reduces your Speed Pool, and a psionic blast reduces your Intellect Pool. You can also spend points from one of your stat Pools to decrease a task’s difficulty (see Effort, below). You can rest to recover lost points from a stat Pool, and some special abilities or cyphers might allow you to recover lost points quickly.
 
-#### EDGE
+#### Edge
 
 <!-- P, ID: 020033 -->
 
@@ -36,7 +36,7 @@ Your Edge can be different for each stat. For example, you could have a Might Ed
 
 A character who has a low Might Pool but a high Might Edge has the potential to perform Might actions consistently better than a character who has a Might Edge of 0. The high Edge will let them reduce the cost of spending points from the Pool, which means they’ll have more points available to spend on applying Effort.
 
-#### EFFORT
+#### Effort
 
 <!-- P, ID: 020039 -->
 
@@ -74,7 +74,7 @@ Skills and other advantages also ease a task, and you can use them in conjunctio
 
 > When applying Effort to melee attacks, you have the option of spending points from either your Might Pool or your Speed Pool. When making ranged attacks, you may spend points only from your Speed Pool. This reflects that with melee you sometimes use brute force and sometimes use finesse, but with ranged attacks, it’s always about careful targeting.
 
-#### EFFORT AND DAMAGE
+#### Effort and Damage
 
 <!-- P, ID: 020051 -->
 
@@ -84,7 +84,7 @@ Instead of applying Effort to ease your attack, you can apply Effort to increase
 
 When using Effort to increase the damage of an area attack, such as the explosion created by an Adept’s Concussion ability, you inflict 2 additional points of damage instead of 3 points. However, the additional points are dealt to all targets in the area. Further, even if one or more of the targets resist the attack, they still take 1 point of damage.
 
-#### MULTIPLE USES OF EFFORT AND EDGE
+#### Multiple Uses of Effort and Edge
 
 <!-- P, ID: 020055 -->
 
@@ -98,7 +98,7 @@ The total amount of Effort you apply can’t be higher than your Effort score. F
 
 You can use Edge for a particular stat only once per action. For example, if you apply Effort to a Might attack roll and to your damage, you can use your Might Edge to reduce the cost of one of those uses of Effort, not both. If you spend 1 Intellect point to activate your mind blast and one level of Effort to ease the attack roll, you can use your Intellect Edge to reduce the cost of one of those things, not both.
 
-#### STAT EXAMPLES
+#### Stat Examples
 
 <!-- P, ID: 020060 -->
 

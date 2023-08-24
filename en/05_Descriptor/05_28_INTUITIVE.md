@@ -1,4 +1,4 @@
-### INTUITIVE
+### Intuitive
 
 <!-- P, ID: 050605 -->
 

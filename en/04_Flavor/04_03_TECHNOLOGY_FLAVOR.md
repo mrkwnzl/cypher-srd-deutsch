@@ -1,4 +1,4 @@
-### TECHNOLOGY FLAVOR
+### Technology Flavor
 
 <!-- P, ID: 040091 -->
 
@@ -8,7 +8,7 @@ Characters with a flavor of technology typically are from science fiction or at 
 
 Some of the less computer-oriented abilities might be appropriate for a steampunk character, while a modern-day character could use some of the abilities that don’t involve starships or ultratech.
 
-#### FIRST-TIER TECHNOLOGY ABILITIES
+#### First-Tier Technology Abilities
 
 <!-- L, ID: 040095 -->
 
@@ -21,7 +21,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 <!-- /L -->
 
-#### SECOND-TIER TECHNOLOGY ABILITIES
+#### Second-Tier Technology Abilities
 
 <!-- L, ID: 040110 -->
 
@@ -35,7 +35,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 <!-- /L -->
 
-#### THIRD-TIER TECHNOLOGY ABILITIES
+#### Third-Tier Technology Abilities
 
 <!-- L, ID: 040127 -->
 
@@ -47,7 +47,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 <!-- /L -->
 
-#### FOURTH-TIER TECHNOLOGY ABILITIES
+#### Fourth-Tier Technology Abilities
 
 <!-- L, ID: 040140 -->
 
@@ -59,7 +59,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 <!-- /L -->
 
-#### FIFTH-TIER TECHNOLOGY ABILITIES
+#### Fifth-Tier Technology Abilities
 
 <!-- L, ID: 040153 -->
 
@@ -69,7 +69,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 <!-- /L -->
 
-#### SIXTH-TIER TECHNOLOGY ABILITIES
+#### Sixth-Tier Technology Abilities
 
 <!-- L, ID: 040162 -->
 

@@ -1,4 +1,4 @@
-### STRONG-WILLED
+### Strong-Willed
 
 <!-- P, ID: 050932 -->
 

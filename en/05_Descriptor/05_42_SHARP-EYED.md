@@ -1,4 +1,4 @@
-### SHARP-EYED
+### Sharp-Eyed
 
 <!-- P, ID: 050861 -->
 

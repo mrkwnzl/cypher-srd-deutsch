@@ -1,4 +1,4 @@
-### CHARACTER TIERS
+### Character Tiers
 
 <!-- P, ID: 020064 -->
 

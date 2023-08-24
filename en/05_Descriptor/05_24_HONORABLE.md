@@ -1,4 +1,4 @@
-### HONORABLE
+### Honorable
 
 <!-- P, ID: 050528 -->
 

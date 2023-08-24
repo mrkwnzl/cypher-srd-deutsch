@@ -1,4 +1,4 @@
-### GUARDED
+### Guarded
 
 <!-- P, ID: 050469 -->
 

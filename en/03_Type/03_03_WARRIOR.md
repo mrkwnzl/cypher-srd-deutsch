@@ -1,4 +1,4 @@
-### WARRIOR
+### Warrior
 
 <!-- P, ID: 030026 -->
 
@@ -69,7 +69,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 
 <!-- /T -->
 
-#### WARRIOR PLAYER INTRUSIONS
+#### Warrior Player Intrusions
 
 <!-- P, ID: 030062 -->
 
@@ -87,7 +87,7 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 **Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
 
-#### WARRIOR STAT POOLS
+#### Warrior Stat Pools
 
 <!-- T, ID: 030068 -->
 
@@ -103,7 +103,7 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### FIRST-TIER WARRIOR
+#### First-Tier Warrior
 
 <!-- P, ID: 030076 -->
 
@@ -149,7 +149,7 @@ First-tier warriors have the following abilities:
 
 <!-- /L -->
 
-#### SECOND-TIER WARRIOR
+#### Second-Tier Warrior
 
 <!-- P, ID: 030108 -->
 
@@ -166,7 +166,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### THIRD-TIER WARRIOR
+#### Third-Tier Warrior
 
 <!-- P, ID: 030124 -->
 
@@ -189,7 +189,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 <!-- /L -->
 
-#### FOURTH-TIER WARRIOR
+#### Fourth-Tier Warrior
 
 <!-- P, ID: 030152 -->
 
@@ -209,7 +209,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### FIFTH-TIER WARRIOR
+#### Fifth-Tier Warrior
 
 <!-- P, ID: 030174 -->
 
@@ -232,7 +232,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 > Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
 
-#### SIXTH-TIER WARRIOR
+#### Sixth-Tier Warrior
 
 <!-- P, ID: 030196 -->
 
@@ -253,7 +253,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Boxed text:
 
-#### WARRIOR EXAMPLE
+#### Warrior Example
 
 <!-- P, ID: 030213 -->
 

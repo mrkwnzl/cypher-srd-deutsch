@@ -1,4 +1,4 @@
-### EXPLORER
+### Explorer
 
 <!-- P, ID: 030413 -->
 
@@ -36,7 +36,7 @@ You are a person of action and physical ability, fearlessly facing the unknown. 
 
 **Advanced Explorers:** Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.
 
-#### EXPLORER PLAYER INTRUSIONS
+#### Explorer Player Intrusions
 
 <!-- P, ID: 030424 -->
 
@@ -54,7 +54,7 @@ When playing an Explorer, you can spend 1 XP to use one of the following player 
 
 **Weak Strain:** The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise.
 
-#### EXPLORER STAT POOLS
+#### Explorer Stat Pools
 
 <!-- T, ID: 030430 -->
 
@@ -103,7 +103,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 
 <!-- /T -->
 
-#### FIRST-TIER EXPLORER
+#### First-Tier Explorer
 
 <!-- P, ID: 030463 -->
 
@@ -153,7 +153,7 @@ First-tier Explorers have the following abilities:
 
 <!-- /L -->
 
-#### SECOND-TIER EXPLORER
+#### Second-Tier Explorer
 
 <!-- P, ID: 030503 -->
 
@@ -178,7 +178,7 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 
 <!-- /L -->
 
-#### THIRD-TIER EXPLORER
+#### Third-Tier Explorer
 
 <!-- P, ID: 030535 -->
 
@@ -202,7 +202,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 <!-- /L -->
 
-#### FOURTH-TIER EXPLORER
+#### Fourth-Tier Explorer
 
 <!-- P, ID: 030565 -->
 
@@ -220,7 +220,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 <!-- /L -->
 
-#### FIFTH-TIER EXPLORER
+#### Fifth-Tier Explorer
 
 <!-- P, ID: 030583 -->
 
@@ -241,7 +241,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 <!-- /L -->
 
-#### SIXTH-TIER EXPLORER
+#### Sixth-Tier Explorer
 
 <!-- P, ID: 030607 -->
 
@@ -260,7 +260,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 <!-- /L -->
 
-#### EXPLORER EXAMPLE
+#### Explorer Example
 
 <!-- P, ID: 030627 -->
 

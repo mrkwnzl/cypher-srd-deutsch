@@ -1,4 +1,4 @@
-### INQUISITIVE
+### Inquisitive
 
 <!-- P, ID: 050567 -->
 

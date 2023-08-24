@@ -1,4 +1,4 @@
-### EXPERIENCE POINTS
+### Experience Points
 
 <!-- P, ID: 010083 -->
 

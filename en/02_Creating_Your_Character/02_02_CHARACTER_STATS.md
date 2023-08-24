@@ -1,10 +1,10 @@
-### CHARACTER STATS
+### Character Stats
 
 <!-- P, ID: 020005 -->
 
 Every player character has three defining characteristics, which are typically called “statistics” or “stats.” These stats are Might, Speed, and Intellect. They are broad categories that cover many different but related aspects of a character.
 
-#### MIGHT
+#### Might
 
 <!-- P, ID: 020008 -->
 
@@ -18,7 +18,7 @@ Might governs actions from forcing doors open to walking for days without food t
 
 > Might could be thought of as Might/Health because it governs how strong you are and how much physical punishment you can take.
 
-#### SPEED
+#### Speed
 
 <!-- P, ID: 020014 -->
 
@@ -28,7 +28,7 @@ Speed describes how fast and physically coordinated your character is. The stat 
 
 > Speed could be thought of as Speed/Agility because it governs your overall swiftness and reflexes.
 
-#### INTELLECT
+#### Intellect
 
 <!-- P, ID: 020019 -->
 

@@ -1,4 +1,4 @@
-### CUSTOMIZING DESCRIPTORS
+### Customizing Descriptors
 
 <!-- P, ID: 051060 -->
 

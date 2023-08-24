@@ -1,4 +1,4 @@
-### RESILIENT
+### Resilient
 
 <!-- P, ID: 050804 -->
 

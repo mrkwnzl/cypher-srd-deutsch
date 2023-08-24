@@ -1,4 +1,4 @@
-### SPECIAL ABILITIES
+### Special Abilities
 
 <!-- P, ID: 020098 -->
 

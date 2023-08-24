@@ -1,4 +1,4 @@
-### FANTASY CHARACTER OPTIONS
+### Fantasy Character Options
 
 <!-- P, ID: 030848 -->
 
@@ -138,7 +138,7 @@ In some cases, the ideas here require minor changes to the flavor described in t
 
 <!-- /L -->
 
-#### PREPARED VS. SPONTANEOUS SPELLCASTING
+#### Prepared vs. Spontaneous Spellcasting
 
 <!-- P, ID: 030934 -->
 
