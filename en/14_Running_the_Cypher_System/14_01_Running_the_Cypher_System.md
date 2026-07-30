@@ -1,2 +1,0 @@
-## Running the Cypher System
-
