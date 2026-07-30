@@ -1,6 +1,8 @@
 # Cypher Reference Document auf Deutsch
 
-![/logos/COL-Cypher_Compatible_Logo-Black.png]
+<div>
+  <img src="/logos/COL-Cypher_Compatible_Logo-All_Black.png" width="150px"></img> 
+</div>
 
 Das Cypher Reference Document auf Deutsch!
 
